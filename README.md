@@ -1,2 +1,0 @@
-# Bitlife
-A website game
